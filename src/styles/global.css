@@ -98,7 +98,7 @@ blockquote {
   font-family: "Roboto", sans-serif;
 }
 
-.img {
+.img, img {
   display: block;
   max-width: 620px;
   margin: auto;
